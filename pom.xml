@@ -93,9 +93,9 @@
             <groupId>io.asyncer</groupId>
             <artifactId>r2dbc-mysql</artifactId>
             <version>1.4.1</version>
-            <scope>test</scope>
         </dependency>
-	</dependencies>
+
+    </dependencies>
 
 	<build>
 		<plugins>
